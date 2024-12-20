@@ -1,2 +1,2 @@
-# connect
-connect for chrome (linewize)
+# Connect
+Connect for chrome (linewize) code base.
