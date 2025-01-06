@@ -4,6 +4,13 @@
 ## Chrome Webstore URL:
 https://chromewebstore.google.com/detail/linewize-connect/ddfbkhpmcdbciejenfcolaaiebnjcbfc
 
+## Qoria self hosted URL:
+https://download.qoria.com/browser/ifinpabiejbjobcphhaomiifjibpkjlf
+
+- Actual self hosted dowload URL:
+https://download.qoria.com/browser/build/ [VERSION]
+    - (Redirects to https://browser-extensions-self-hosted-builds.linewize.net/linewize/prod/builds/browser-extension- [VERSION] .crx)
+
 ## Extension IDs:
 - ddfbkhpmcdbciejenfcolaaiebnjcbfc ([Chrome webstore](https://chromewebstore.google.com/detail/linewize-connect/ddfbkhpmcdbciejenfcolaaiebnjcbfc))
 
