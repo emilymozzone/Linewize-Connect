@@ -7,7 +7,7 @@ https://chromewebstore.google.com/detail/linewize-connect/ddfbkhpmcdbciejenfcola
 ## Qoria self-hosted URL:
 https://download.qoria.com/browser/ifinpabiejbjobcphhaomiifjibpkjlf
 
-- Actual self-hosted dowload URL (Replace [VERSION] with the version of the extension you want):
+- Actual self-hosted dowload URL (Replace [VERSION] with the version of the extension you want to download):
 <https://download.qoria.com/browser/build/>[VERSION]
     - (Redirects to <https://browser-extensions-self-hosted-builds.linewize.net/linewize/prod/builds/browser-extension->[VERSION].crx)
 
