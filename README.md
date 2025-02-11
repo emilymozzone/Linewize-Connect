@@ -15,3 +15,7 @@ https://download.qoria.com/browser/ifinpabiejbjobcphhaomiifjibpkjlf
 - ddfbkhpmcdbciejenfcolaaiebnjcbfc ([Chrome webstore](https://chromewebstore.google.com/detail/linewize-connect/ddfbkhpmcdbciejenfcolaaiebnjcbfc))
 
 - ifinpabiejbjobcphhaomiifjibpkjlf ([Direct from URL](https://download.qoria.com/browser/ifinpabiejbjobcphhaomiifjibpkjlf))
+
+## CRX Viewer:
+You can use a website like CRX Viewer to see content that you can't see by unzipping it. 
+- https://robwu.nl/crxviewer/
