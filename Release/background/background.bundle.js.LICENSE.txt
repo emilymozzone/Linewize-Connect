@@ -315,8 +315,3 @@ PERFORMANCE OF THIS SOFTWARE.
       Copyright The Closure Library Authors.
       SPDX-License-Identifier: Apache-2.0
       */
-
-/** @license
-Copyright The Closure Library Authors.
-SPDX-License-Identifier: Apache-2.0
-*/
