@@ -1,6 +1,6 @@
 {
   "name": "Linewize Connect",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "update_url": "https://download.qoria.com/browser/rc/au-ga",
   "key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvk1w91cvobKQCL6zz9zK\nsRQbzV6EgCm1ZPGRPT/7vwZ4BvSgBPrcV7kb+yKJsXCL/9O2cccp25PADBSf/LCt\nS8J+w7HbJpYoQO3lATsI6NrUltalxx+9aa+NVhkUQAIQ6ojF+Z01Zuppz41N0V31\nULayrSnArMZyxLEISBlIcYPwU4FmnGoLvNraJOH5aN7nwShHqW/DJ2B/KwMoAJgx\nglMYMQGhmdkwM2mmoae1vhSC1aRlHRq+j+plCijVuD4N3Bv7ggtkgGWOFZr/1WOy\nnY2I9HpjfLgs2hHzdhMiZAbceDu8AIm0X25dkvp8PBgxyJbmENpnZOBvPEmVK5ag\nYQIDAQAB\n-----END PUBLIC KEY-----",
   "manifest_version": 3,
