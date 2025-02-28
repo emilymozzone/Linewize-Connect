@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "properties": {
+    "configuration": {
+      "type": "object",
+      "properties": {
+        "region": {
+          "type": "string",
+          "enum": [
+            "syd-1",
+            "syd-2",
+            "uk-1",
+            "beta-1",
+            "sit"
+          ]
+        },
+        "applianceId": {
+          "type": "string",
+          "comment": "The pattern matches no space between strings",
+          "pattern": "^[^\\s]*$",
+          "maxLength": 255,
+          "minLength": 2
+        },
+        "preSharedKey": {
+          "type": "string"
+        }
+      },
+      "maxProperties": 3,
+      "required": [
+        "region",
+        "applianceId",
+        "preSharedKey"
+      ]
+    }
+  },
+  "comment": "Since additionalProperties is not allowed in Chrome this is a workaround for limiting the field to configuration field only.",
+  "maxProperties": 1,
+  "required": [
+    "configuration"
+  ]
+}
